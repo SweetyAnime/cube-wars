@@ -474,7 +474,6 @@ def game_loop():
 
     pygame.quit()
 
-# Fix: move ROWS and COLS definition to the top, right after GAME_ROWS and GAME_COLS
 ROWS = GAME_ROWS
 COLS = GAME_COLS
 
