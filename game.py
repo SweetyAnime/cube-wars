@@ -18,7 +18,6 @@ UI_PANEL_WIDTH = WIDTH - GAME_AREA_WIDTH  # UI panel on the right
 ROWS = GAME_ROWS
 COLS = GAME_COLS
 
-
 # Colors
 RED = (200, 50, 50)
 BLUE = (50, 100, 200)
