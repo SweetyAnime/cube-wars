@@ -3,7 +3,7 @@ import time
 import random
 import math
 
-# Initialize pygame
+
 pygame.init()
 
 # Constants
@@ -51,7 +51,7 @@ GAME_TIME = 300  # 5 minutes
 
 # Building costs and healths
 BUILD_COSTS = {
-    "windmill": 20,
+    "windmill": 65,
     "tank": 30,
     "soldier": 25,
     "drone": 40,
