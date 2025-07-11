@@ -10,7 +10,7 @@ pygame.init()
 WIDTH, HEIGHT = 1200, 700  
 TILE_SIZE = 40
 GAME_AREA_WIDTH = 960  
-FPS = 60  # Frames per second for the game
+FPS = 60 
 GAME_COLS = GAME_AREA_WIDTH // TILE_SIZE
 GAME_ROWS = HEIGHT // TILE_SIZE
 UI_PANEL_WIDTH = WIDTH - GAME_AREA_WIDTH  # UI panel on the right
