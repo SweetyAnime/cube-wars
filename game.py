@@ -7,7 +7,7 @@ import math
 pygame.init()
 
 # Constants
-WIDTH, HEIGHT = 1200, 700  # Increased size for UI panel
+WIDTH, HEIGHT = 1200, 700  
 TILE_SIZE = 40
 GAME_AREA_WIDTH = 960  # Game area width remains the same
 FPS = 60  # Frames per second for the game
